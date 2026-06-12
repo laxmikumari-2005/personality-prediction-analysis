@@ -1,3 +1,5 @@
+<img width="1366" height="655" alt="Correlation heatmap" src="https://github.com/user-attachments/assets/e822a9bc-0fea-44f9-bd90-0a36b54ca069" />
+<img width="1366" height="655" alt="boxplot" src="https://github.com/user-attachments/assets/009d1ba2-b182-4ae1-9819-3d9e4c9e38b1" />
 # Personality Prediction Analysis
 
 ## Project Overview
